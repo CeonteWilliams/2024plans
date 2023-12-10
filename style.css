@@ -1,0 +1,24 @@
+body {
+    color: white;
+    background-color: black;
+    padding-bottom: 50%;
+}
+
+.jumbotron {
+    background: url(https://resources.workable.com/wp-content/uploads/2017/12/shutterstock_312253628.jpg);
+    margin-top: 5%;
+    padding-bottom: 5%;
+}
+
+.jumbotron2 {
+background: url(https://www.memphiscashsaver.com/wp-content/uploads/Stick-With-Health-Goals-wellness.jpg);
+    margin-top: 5%;
+    padding-bottom: 5%;
+}
+
+.jumbotron3 {
+background: url(https://www.signaturebankga.com/wp-content/uploads/2023/03/Geld-1320x793.jpg);
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding-bottom: 10%;
+}
